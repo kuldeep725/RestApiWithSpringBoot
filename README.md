@@ -15,4 +15,7 @@ server.error.include-message=always
 ```
 
 Modify the above details depending upon the your configuration.
-Here, mysql dbms is being used and restdb database is being created.
+
+Here,<br>
+DBMS is **mysql**. <br>
+Database is **restdb**.
